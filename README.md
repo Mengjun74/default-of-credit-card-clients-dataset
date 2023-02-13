@@ -12,7 +12,7 @@ Building a machine learning model to predict people who will set a defualt payme
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 #### Content
-There are 25 variables in side the dataset. Details can be found in [here]('https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset')
+There are 25 variables in side the dataset. Details can be found in [here](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)
 
 ## Licenses
 
